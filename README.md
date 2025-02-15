@@ -1,0 +1,1 @@
+This repository demonstrates a bug encountered when using nested routes with parameters in React Router v6. The issue manifests as unexpected route matching and rendering behavior.  The `Contact` component fails to render correctly. The solution provides a corrected routing configuration that resolves the problem.
